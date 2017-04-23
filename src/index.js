@@ -13,3 +13,6 @@ ReactDOM.render(
     <App />
   </Provider>
   , document.querySelector('.container'));
+
+
+// a reducer is a redux function that returns the value of a piece of the application's state
