@@ -6,4 +6,3 @@ export default () => {
     { title: 'Catcher in the Rye'}
   ]
 }
-//this is the 'books reducer'
